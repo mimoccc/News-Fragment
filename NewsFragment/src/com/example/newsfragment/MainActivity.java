@@ -11,7 +11,7 @@ public class MainActivity extends FragmentActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.i(TAG, "onCreate");
+        Log.i(TAG, "onCreate111");
         
         setContentView(R.layout.fragment_layout_support);
     }   
